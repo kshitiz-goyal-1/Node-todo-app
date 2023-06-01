@@ -1,5 +1,4 @@
-# Node-todo-app
-Todo app
+# node-todo-cicd
 
 Run these commands:
 
@@ -17,3 +16,4 @@ Run these commands:
 or Run by docker compose
 
 test
+
